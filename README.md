@@ -2,15 +2,15 @@
 
 Identity verification with document scanning, liveness detection, and AML checks
 
-## 🎯 Features
+## What You Get
 
-- ✅ Document OCR
-- ✅ Face Match
-- ✅ AML Screening
-- ✅ Risk Scoring
-- ✅ Compliance Reports
+- Document OCR
+- Face Match
+- AML Screening
+- Risk Scoring
+- Compliance Reports
 
-## 🛠️ Tech Stack
+## Technologies
 
 - Python
 - FastAPI
@@ -18,7 +18,7 @@ Identity verification with document scanning, liveness detection, and AML checks
 - PostgreSQL
 - Redis
 
-## 🚀 Quick Start
+## Running Locally
 
 ```bash
 # Clone the repository
@@ -34,19 +34,19 @@ cp .env.example .env
 python main.py
 ```
 
-## 📚 Documentation
+## Documentation
 
 - [Getting Started](./docs/getting-started.md)
 - [API Reference](./docs/api-reference.md)
 - [Deployment Guide](./docs/deployment.md)
 - [Security Best Practices](./docs/security.md)
 
-## 🏢 Use Cases
+## Use Cases
 
 - **Fintech**
 - **Enterprise**
 
-## 🔒 Compliance & Security
+## Compliance & Security
 
 This scaffold includes built-in compliance features for:
 
@@ -57,14 +57,14 @@ This scaffold includes built-in compliance features for:
 - Rate limiting and DDoS protection
 - Security headers and CORS
 
-## 📄 License
+## License
 
 MIT License - see [LICENSE](./LICENSE)
 
-## 🤝 Contributing
+## Contributing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ---
 
-Built with care and coffee ☕ by [Offlabel Design](https://offlabel.design)
+Built with care and coffee by [Offlabel Design](https://offlabel.design)
