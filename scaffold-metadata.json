@@ -1,0 +1,43 @@
+{
+  "name": "fintech-kyc-verification",
+  "displayName": "KYC/AML Verification System",
+  "description": "Identity verification with document scanning, liveness detection, and AML checks",
+  "version": "1.0.0",
+  "author": "Augustus Rivers - Offlabel Design",
+  "license": "MIT",
+  "repository": "https://github.com/offlabel-scaffolds/fintech-kyc-verification",
+  "tech": [
+    "Python",
+    "FastAPI",
+    "OpenCV",
+    "PostgreSQL",
+    "Redis"
+  ],
+  "categories": [
+    "backend",
+    "ai-ml",
+    "fintech"
+  ],
+  "usecases": [
+    "fintech",
+    "enterprise"
+  ],
+  "priority": "high",
+  "maturity": "stable",
+  "complexity": "advanced",
+  "features": [
+    "Document OCR",
+    "Face Match",
+    "AML Screening",
+    "Risk Scoring",
+    "Compliance Reports"
+  ],
+  "hasDemo": false,
+  "hasCLI": false,
+  "securityFeatures": [
+    "PCI-DSS",
+    "Encryption",
+    "Compliance"
+  ],
+  "lastUpdated": "2025-10-03"
+}
